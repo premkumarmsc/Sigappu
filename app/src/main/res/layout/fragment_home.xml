@@ -1,0 +1,47 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="info.androidhive.navigationdrawer.fragment.HomeFragment">
+
+   <LinearLayout
+       android:layout_width="match_parent"
+       android:layout_height="match_parent"
+       android:layout_gravity="right"
+       android:orientation="vertical">
+
+       <ImageView
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:src="@drawable/ogo"/>
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:layout_gravity="center"
+           android:text="தனியாக வசிப்பது ஆபத்தா?"
+           android:textStyle="bold"/>
+       <TextView
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:padding="5dp"
+
+           android:text="சாந்தி என்ற 65 வயது பெண்மனி சென்னை தி.நகரில் நேற்று கொடூரமாக கொலை செய்யப்பட்டுள்ளார். கொலைக்கான காரணங்கள் இதுவரை கண்டுபிடிக்கப்பட வில்லையென்றாலும், பணம், நகைக்காகத்தான் இந்தக் கொலை நடந்திருக்கும் என்பதை பாமரனும் கூறி விடுவான்.
+
+இதுபோன்ற கொலைகள் பத்து, இருபது என்று எண்ணிக்கை நீண்டு கொண்டிருப்பது அரசு பெருமை அல்ல என்பதை உணரவேண்டும்.
+
+ஒரு மனிதன் தனியாக, சுதந்திரமாக வெளியில் நடமாட முடியாத நிலை இருந்தது போய், தனியாக வீட்டில் கூட வசிக்க முடியாத நிலை உருவாகி வருவது பெரும் ஆபத்து.
+
+இதனால் தனியாக வசிக்கும் முதியவர்கள் எப்போதும் அச்சத்துடனேயே வாழும் நிலை இருந்து வருகிறது.
+
+சட்டம் ஒழுங்கை பாதுகாக்க வேண்டிய போலீசார் இந்த விஷயத்தில் தீவிர கவனம் செலுத்தாமல் இருப்பது வேதனைக்குரியது.
+
+தனியாக வசிக்கும் முதியவர்கள் குறித்த தகவல்களை உடனடியாக திரட்டி அந்தந்த பகுதிகளில் அவப்போதாவது போலீசார் ரவுண்ட்ஸ் வரலாம்.
+
+இப்படி செய்வதால் கொள்ளையர்களுக்கு ஓரளவுக்காவது பயமிருக்கும்.
+
+கொள்ளையடிக்க வரும் கொள்ளையர்களே கொலைக்காரர்களாக மாறுகின்றனர். கொள்ளையை தடுத்தாலே கொலை குறைய வாய்ப்பிருக்கிறது."
+          />
+
+   </LinearLayout>
+
+</ScrollView>

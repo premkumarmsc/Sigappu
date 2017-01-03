@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_about_us"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+ >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:padding="5dp"
+        android:orientation="vertical"
+        android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="தமிழின் முதல் புலனாய்வு இதழாக சிகப்பு நாடா இதழ்"
+        android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="1970 ஆம் ஆண்டு குமாரசாமி என்ற கயிலை மன்னன் அவர்களால் தொடங்கப்பட்டது…மாதம் தோரும் இருமுறை என்று வெளிவந்தது"/>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="சிகப்பு நாடா என்ற பெயர் வரக் காரணம்"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="அரசாங்கத்தின்  மிகமுக்கிய விவகாரங்களை ‘ரெட் டேப்’ (சிகப்புநாடா) பைலில் கட்டி வைத்திருப்பார்கள்.  அந்த முக்கிய பைலில் பல ரகசியங்கள் அடங்கியிருக்கும்.   அந்தப் பைலில் கட்டப்பட்டிருக்கும்  ரகசியங்கள் சிகப்புநாடாவில் இதழில் வெளிவரும். சிகப்பு நாடாவில் வந்த செய்தியை பார்த்து அரசு உயரதிகாரிகள்  ஆடிப் போய்விடுவார்கள். அது அரசாங்க அளவில் எதிரொலித்தது."
+           />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="செய்தியை கண்டு அஞ்சியோர்"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="அப்போது சிகப்புநாடா பேப்பர் வடிவில் பன்னிரண்டு பக்கமாக வெளிவந்தது. அரசாங்கத்தின் அனைத்து துறைகளின் ஊழல்களையும் சிகப்புநாடா புலனாய்வு செய்து மக்களுக்கு கொண்டு சேர்க்கும் பணியை துணிச்சலாக செய்து வந்தது. வருவாய்த்துறை, காவல்துறை, பதிவுத்துறை,சிறைத்துறை மற்றும் ஆர்.டி.ஓ உள்ளிட்ட மிக முக்கியதுறைகளின் தவறு செய்த உயரதிகாரிகள் சிகப்புநாடாவில் வரும் செய்திகளைக் கண்டு அஞ்சி நடுங்குவர். அவர்களைப் பற்றிய செய்திகளால் அவர்கள் துறைரீதியான பல்வேறு பிரச்னைகளை சந்தித்தார்கள். சில சமயங்களில் பதவியே பறிபோனதும் உண்டு."
+           />
+    </LinearLayout>
+</ScrollView>

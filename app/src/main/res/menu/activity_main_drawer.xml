@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_category"
+            android:icon="@drawable/category"
+            android:title="தலையங்கம்" />
+        <item
+            android:id="@+id/nav_govt"
+            android:icon="@drawable/govt"
+            android:title="அரசியல்" />
+        <item
+            android:id="@+id/nav_earth"
+            android:icon="@drawable/earth"
+            android:title="உலகம்" />
+
+        <item
+            android:id="@+id/nav_chennai"
+            android:icon="@drawable/chennai"
+            android:title="மாவட்டம்" />
+
+        <item
+            android:id="@+id/nav_crime"
+            android:icon="@drawable/crime"
+            android:title="க்ரைம்" />
+        <item
+            android:id="@+id/nav_interview"
+            android:icon="@drawable/interview"
+            android:title="பேட்டி" />
+        <item
+            android:id="@+id/nav_sports"
+            android:icon="@drawable/sports"
+            android:title="விளையாட்டு" />
+        <item
+            android:id="@+id/nav_cinima"
+            android:icon="@drawable/cinima"
+            android:title="சினிமா" />
+        <item
+            android:id="@+id/nav_reviews"
+            android:icon="@drawable/reviews"
+            android:title="ஸ்பெஷல்" />
+        <item
+            android:id="@+id/nav_edu"
+            android:icon="@drawable/edu"
+            android:title="கல்வி" />
+    </group>
+
+    <item android:title="பிற">
+        <menu>
+            <item
+                android:id="@+id/nav_about_us"
+                android:title="எங்களை பற்றி" />
+            <item
+                android:id="@+id/nav_privacy_policy"
+                android:title="தொடர்புக்கு" />
+        </menu>
+    </item>
+
+</menu>

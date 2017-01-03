@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_privacy_policy"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="info.androidhive.navigationdrawer.activity.PrivacyPolicyActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="தொடர்புக்கு நீங்கள் அணுகவேண்டிய எமது முகவரி:\nNo.37F ,Velachery main Road,\nVijayanagar ,Velachery,\nChennai-600042.\nEmail: sigappunada@gmail.com\nPh.:044-43037078" />
+
+</RelativeLayout>
